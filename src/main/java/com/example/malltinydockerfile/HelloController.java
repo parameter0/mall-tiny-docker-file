@@ -18,7 +18,7 @@ public class HelloController {
         int a = 8;
         int b;
         b = a == 9 || a == 10 ? 1 : 2;
-        System.out.println(b);
+        System.out.println(111);
 
         return "congratulations!It worksa!12345";
     }
